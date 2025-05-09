@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-
-!--
-**MEKALA MOHAN KRISHNA here FRONT END WEB DEVELOPER
+**MEKALA MOHAN KRISHNA** here FRONT END WEB DEVELOPER
 
 Here are some ideas to get you started:
 
